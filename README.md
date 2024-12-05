@@ -40,7 +40,7 @@ Para rodar o jogo localmente, você precisará de um navegador moderno, como Chr
 
 ## 👷 Autor
 
-* **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
