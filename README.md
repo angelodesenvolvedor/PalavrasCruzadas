@@ -44,5 +44,5 @@ Para rodar o jogo localmente, você precisará de um navegador moderno, como Chr
 
 ## 📄 Licença
 
-- Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+- Esse projeto está sob a licença MIT License - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/PalavrasCruzadas?tab=License-1-ov-file).
   
