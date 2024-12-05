@@ -31,12 +31,12 @@ Para rodar o jogo localmente, você precisará de um navegador moderno, como Chr
     cd jogo-palavras-cruzadas
     ```
 # 📦 Tecnologias usadas:
-. Este projeto utiliza as seguintes tecnologias:
+- Este projeto utiliza as seguintes tecnologias:
 
 **Front-end**:
-- HTML: Estrutura e conteúdo da página.
-- CSS: Estilização do jogo, incluindo efeitos de hover, feedback visual e responsividade.
-- JavaScript: Lógica do jogo, controle de entradas do jogador e verificação das respostas.
+* HTML: Estrutura e conteúdo da página.
+* CSS: Estilização do jogo, incluindo efeitos de hover, feedback visual e responsividade.
+* JavaScript: Lógica do jogo, controle de entradas do jogador e verificação das respostas.
 
 ## 👷 Autor
 
