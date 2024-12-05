@@ -6,7 +6,7 @@ Uma versão interativa e responsiva de um jogo de palavras cruzadas, onde o usu�
 
 Este projeto é um jogo de palavras cruzadas no qual o jogador deve preencher um tabuleiro de 6x6 com palavras. Cada palavra tem uma pista associada, e ao finalizar o preenchimento do tabuleiro, o jogo permite verificar as respostas, fornecendo feedback visual sobre a correção das respostas. O jogo é totalmente responsivo, com uma interface adaptável para dispositivos móveis e desktops.
 
-### Funcionalidades:
+### ✅ Funcionalidades:
 
 - **Tabuleiro de 6x6**: Com células para preencher com letras.
 - **Pistas interativas**: Clicar nas pistas revela dicas.
@@ -28,7 +28,7 @@ Para rodar o jogo localmente, você precisará de um navegador moderno, como Chr
 2. **Navegue até a pasta do projeto**:
 
     ```bash
-    cd jogo-palavras-cruzadas
+    cd palavrascruzadas
     ```
 # 📦 Tecnologias usadas:
 - Este projeto utiliza as seguintes tecnologias:
@@ -40,7 +40,7 @@ Para rodar o jogo localmente, você precisará de um navegador moderno, como Chr
 
 ## 👷 Autor
 
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
